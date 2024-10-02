@@ -37,3 +37,6 @@
 env/
 venv/
 **/.DS_Store
+
+# Others
+*.txt
